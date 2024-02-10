@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a Educational Site](https://adommoacademy.com/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **HTML5,CSS3,Tailwind Css, Bootstrap, React , MongoDB, ExpressJS**
 
