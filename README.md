@@ -11,6 +11,7 @@
 - 💻 Full Stack Developer passionate about creating robust web applications
 - 💬 Expertise in **NextJS, Redux, MongoDB, Express JS, Hardhat**
 - 📫 Reach me at **knkolin9@gmail.com**
+- 📄 Check out my [CV](https://drive.google.com/file/d/1PB3c1N5Rlf0cXxtM28MYpkSQMXqD0yqX/view?usp=sharing)
 - <img src="https://komarev.com/ghpvc/?username=kolinabir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 
 <div align="left">
@@ -26,7 +27,8 @@
   </a>&nbsp;
   <a href="mailto:knkolin9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  </a>&nbsp;
+
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Tech Stack
