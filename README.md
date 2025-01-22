@@ -11,7 +11,7 @@
 - 💻 Full Stack Developer passionate about creating robust web applications
 - 💬 Expertise in **NextJS, Redux, MongoDB, Express JS, Hardhat**
 - 📫 Reach me at **knkolin9@gmail.com**
-- 📄 Check out my [CV](https://drive.google.com/file/d/1PB3c1N5Rlf0cXxtM28MYpkSQMXqD0yqX/view?usp=sharing)
+- 📄 Check out my <a href="https://drive.google.com/file/d/1PB3c1N5Rlf0cXxtM28MYpkSQMXqD0yqX/view?usp=sharing" target="_blank">CV</a>
 - <img src="https://komarev.com/ghpvc/?username=kolinabir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 
 <div align="left">
