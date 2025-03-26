@@ -80,10 +80,12 @@
 <img src="https://github-stats-alpha.vercel.app/api?username=kolinabir&cc=000&tc=fff&ic=fff&bc=000" width="49%" alt="Stats" align="center" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolinabir&theme=algolia" width="49%" alt="Productive Time" align="center" />
 </p>
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kolinabir&theme=algolia&hide_border=true" width="49%" alt="Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolinabir&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
+  <picture>
+    <source media="(prefers-colored-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kolinabir&theme=algolia&hide_border=true">
+    <source media="(prefers-colored-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kolinabir&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=kolinabir&theme=algolia&hide_border=true" alt="GitHub Streak Stats">
+  </picture>
 </p>
 
 <div align="center">
